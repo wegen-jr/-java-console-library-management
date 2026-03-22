@@ -1,0 +1,2 @@
+makbel hailu | mch | 1234 | true
+lisa abera | lisaab | 1234 | false
