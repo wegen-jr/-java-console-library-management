@@ -163,7 +163,7 @@ public class Admin extends MyAdmin{
             
             BookManager bookManager = new BookManager();
             do{
-                System.out.println("choose from the following.");
+                System.out.println("choose from the following options.");
                 System.out.println("1. view books");
                 System.out.println("2. staff management");
                 System.out.println("3. change password");
